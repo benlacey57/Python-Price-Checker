@@ -2,6 +2,7 @@ import json
 import requests
 from typing import List, Dict, Any
 from decimal import Decimal
+from datetime import datetime
 
 from core.interfaces import NotifierInterface
 from core.models import Product
