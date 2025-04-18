@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "asin": "B08N5KWB9H",
+      "title": "Samsung Galaxy S21 Ultra 5G Factory Unlocked Android Cell Phone 128GB",
+      "category": "Smartphones",
+      "url": "https://www.amazon.com/dp/B08N5KWB9H"
+    },
+    {
+      "asin": "B07ZPKN6YR",
+      "title": "Mario Kart 8 Deluxe - Nintendo Switch",
+      "category": "Video Games",
+      "url": "https://www.amazon.com/dp/B07ZPKN6YR"
+    },
+    {
+      "asin": "B07BJL5ZYF",
+      "title": "Organic Raw Honey by Sky Organics (16oz) 100% Pure, Unfiltered, & Unpasteurized",
+      "category": "Organic Foods",
+      "url": "https://www.amazon.com/dp/B07BJL5ZYF"
+    },
+    {
+      "asin": "B01GW3H3U8",
+      "title": "Bernat Blanket Yarn, 10.5 Oz, Dark Grey",
+      "category": "Yarn",
+      "url": "https://www.amazon.com/dp/B01GW3H3U8"
+    },
+    {
+      "asin": "B003VOSH60",
+      "title": "Lion Brand Yarn 640-130 Wool-Ease Thick and Quick Yarn, Cranberry",
+      "category": "Yarn",
+      "url": "https://www.amazon.com/dp/B003VOSH60"
+    }
+  ]
+}
