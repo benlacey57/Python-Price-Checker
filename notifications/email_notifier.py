@@ -3,6 +3,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from typing import List, Dict, Any
 from decimal import Decimal
+from datetime import datetime
 
 from core.interfaces import NotifierInterface
 from core.models import Product
